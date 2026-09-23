@@ -1,0 +1,86 @@
+{
+  "title": {
+    "message": "按住或停止"
+  },
+  "subtitle": {
+    "message": "找到中心，精准停止。"
+  },
+  "settings": {
+    "message": "设置"
+  },
+  "score": {
+    "message": "得分"
+  },
+  "streak": {
+    "message": "连胜"
+  },
+  "accuracy": {
+    "message": "准确率"
+  },
+  "instruction": {
+    "message": "当标记到达目标中心时按下停止。"
+  },
+  "start": {
+    "message": "开始"
+  },
+  "stop": {
+    "message": "停止"
+  },
+  "next": {
+    "message": "下一轮"
+  },
+  "go": {
+    "message": "把握时机！"
+  },
+  "keys": {
+    "message": "也可以使用空格键或 Enter 键。"
+  },
+  "back": {
+    "message": "← 返回"
+  },
+  "language": {
+    "message": "语言"
+  },
+  "sound": {
+    "message": "声音"
+  },
+  "reducedMotion": {
+    "message": "减少动画"
+  },
+  "records": {
+    "message": "记录"
+  },
+  "bestScore": {
+    "message": "最高得分"
+  },
+  "bestPrecision": {
+    "message": "最高精度"
+  },
+  "bestPrecisionStreak": {
+    "message": "最高精度连胜"
+  },
+  "gamesPlayed": {
+    "message": "游戏次数"
+  },
+  "perfect": {
+    "message": "完美"
+  },
+  "excellent": {
+    "message": "优秀"
+  },
+  "great": {
+    "message": "很棒"
+  },
+  "good": {
+    "message": "不错"
+  },
+  "miss": {
+    "message": "失误"
+  },
+  "resetGame": {
+    "message": "重置游戏"
+  },
+  "ready": {
+    "message": "准备好了吗？"
+  }
+}

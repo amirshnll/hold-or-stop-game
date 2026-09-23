@@ -1,0 +1,86 @@
+{
+  "title": {
+    "message": "ホールドかストップ"
+  },
+  "subtitle": {
+    "message": "中央を見つけて、正確に止めよう。"
+  },
+  "settings": {
+    "message": "設定"
+  },
+  "score": {
+    "message": "スコア"
+  },
+  "streak": {
+    "message": "連続成功"
+  },
+  "accuracy": {
+    "message": "正確さ"
+  },
+  "instruction": {
+    "message": "マーカーが目標の中央に来たらストップを押してください。"
+  },
+  "start": {
+    "message": "開始"
+  },
+  "stop": {
+    "message": "ストップ"
+  },
+  "next": {
+    "message": "次のラウンド"
+  },
+  "go": {
+    "message": "タイミングを合わせよう！"
+  },
+  "keys": {
+    "message": "Space または Enter も使えます。"
+  },
+  "back": {
+    "message": "← 戻る"
+  },
+  "language": {
+    "message": "言語"
+  },
+  "sound": {
+    "message": "サウンド"
+  },
+  "reducedMotion": {
+    "message": "動きを減らす"
+  },
+  "records": {
+    "message": "記録"
+  },
+  "bestScore": {
+    "message": "最高スコア"
+  },
+  "bestPrecision": {
+    "message": "最高精度"
+  },
+  "bestPrecisionStreak": {
+    "message": "最高精度連続記録"
+  },
+  "gamesPlayed": {
+    "message": "プレイ回数"
+  },
+  "perfect": {
+    "message": "パーフェクト"
+  },
+  "excellent": {
+    "message": "エクセレント"
+  },
+  "great": {
+    "message": "グレート"
+  },
+  "good": {
+    "message": "グッド"
+  },
+  "miss": {
+    "message": "ミス"
+  },
+  "resetGame": {
+    "message": "ゲームをリセット"
+  },
+  "ready": {
+    "message": "準備はいい？"
+  }
+}

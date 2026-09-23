@@ -1,0 +1,86 @@
+{
+  "title": {
+    "message": "멈출까 계속할까"
+  },
+  "subtitle": {
+    "message": "중앙을 찾아 정확하게 멈추세요."
+  },
+  "settings": {
+    "message": "설정"
+  },
+  "score": {
+    "message": "점수"
+  },
+  "streak": {
+    "message": "연속 성공"
+  },
+  "accuracy": {
+    "message": "정확도"
+  },
+  "instruction": {
+    "message": "표시가 목표의 중앙에 도달하면 멈춤을 누르세요."
+  },
+  "start": {
+    "message": "시작"
+  },
+  "stop": {
+    "message": "멈춤"
+  },
+  "next": {
+    "message": "다음 라운드"
+  },
+  "go": {
+    "message": "타이밍을 맞추세요!"
+  },
+  "keys": {
+    "message": "Space 또는 Enter 키도 사용할 수 있습니다."
+  },
+  "back": {
+    "message": "← 뒤로"
+  },
+  "language": {
+    "message": "언어"
+  },
+  "sound": {
+    "message": "소리"
+  },
+  "reducedMotion": {
+    "message": "동작 줄이기"
+  },
+  "records": {
+    "message": "기록"
+  },
+  "bestScore": {
+    "message": "최고 점수"
+  },
+  "bestPrecision": {
+    "message": "최고 정확도"
+  },
+  "bestPrecisionStreak": {
+    "message": "최고 정확도 연속 기록"
+  },
+  "gamesPlayed": {
+    "message": "플레이 횟수"
+  },
+  "perfect": {
+    "message": "완벽"
+  },
+  "excellent": {
+    "message": "훌륭함"
+  },
+  "great": {
+    "message": "대단함"
+  },
+  "good": {
+    "message": "좋음"
+  },
+  "miss": {
+    "message": "실패"
+  },
+  "resetGame": {
+    "message": "게임 초기화"
+  },
+  "ready": {
+    "message": "준비됐나요?"
+  }
+}

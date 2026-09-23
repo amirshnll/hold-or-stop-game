@@ -1,0 +1,86 @@
+{
+  "title": {
+    "message": "Aguanta o para"
+  },
+  "subtitle": {
+    "message": "Encuentra el centro. Para con precisión."
+  },
+  "settings": {
+    "message": "Ajustes"
+  },
+  "score": {
+    "message": "Puntos"
+  },
+  "streak": {
+    "message": "Racha"
+  },
+  "accuracy": {
+    "message": "Precisión"
+  },
+  "instruction": {
+    "message": "Pulsa Parar cuando el marcador llegue al centro del objetivo."
+  },
+  "start": {
+    "message": "Empezar"
+  },
+  "stop": {
+    "message": "Parar"
+  },
+  "next": {
+    "message": "Siguiente ronda"
+  },
+  "go": {
+    "message": "¡Ahora!"
+  },
+  "keys": {
+    "message": "También puedes usar Espacio o Intro."
+  },
+  "back": {
+    "message": "← Volver"
+  },
+  "language": {
+    "message": "Idioma"
+  },
+  "sound": {
+    "message": "Sonido"
+  },
+  "reducedMotion": {
+    "message": "Movimiento reducido"
+  },
+  "records": {
+    "message": "Récords"
+  },
+  "bestScore": {
+    "message": "Mejor puntuación"
+  },
+  "bestPrecision": {
+    "message": "Mejor precisión"
+  },
+  "bestPrecisionStreak": {
+    "message": "Mejor racha de precisión"
+  },
+  "gamesPlayed": {
+    "message": "Partidas jugadas"
+  },
+  "perfect": {
+    "message": "PERFECTO"
+  },
+  "excellent": {
+    "message": "EXCELENTE"
+  },
+  "great": {
+    "message": "GENIAL"
+  },
+  "good": {
+    "message": "BIEN"
+  },
+  "miss": {
+    "message": "FALLO"
+  },
+  "resetGame": {
+    "message": "Reiniciar juego"
+  },
+  "ready": {
+    "message": "¿Listo?"
+  }
+}

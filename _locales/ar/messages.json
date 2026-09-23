@@ -1,0 +1,86 @@
+{
+  "title": {
+    "message": "استمر أو توقف"
+  },
+  "subtitle": {
+    "message": "اعثر على المركز وتوقف بدقة."
+  },
+  "settings": {
+    "message": "الإعدادات"
+  },
+  "score": {
+    "message": "النقاط"
+  },
+  "streak": {
+    "message": "السلسلة"
+  },
+  "accuracy": {
+    "message": "الدقة"
+  },
+  "instruction": {
+    "message": "اضغط إيقاف عندما يصل المؤشر إلى مركز الهدف."
+  },
+  "start": {
+    "message": "ابدأ"
+  },
+  "stop": {
+    "message": "إيقاف"
+  },
+  "next": {
+    "message": "الجولة التالية"
+  },
+  "go": {
+    "message": "اضبط الوقت!"
+  },
+  "keys": {
+    "message": "يمكنك أيضًا استخدام مسافة أو Enter."
+  },
+  "back": {
+    "message": "→ رجوع"
+  },
+  "language": {
+    "message": "اللغة"
+  },
+  "sound": {
+    "message": "الصوت"
+  },
+  "reducedMotion": {
+    "message": "تقليل الحركة"
+  },
+  "records": {
+    "message": "السجلات"
+  },
+  "bestScore": {
+    "message": "أفضل نقاط"
+  },
+  "bestPrecision": {
+    "message": "أفضل دقة"
+  },
+  "bestPrecisionStreak": {
+    "message": "أفضل سلسلة دقة"
+  },
+  "gamesPlayed": {
+    "message": "الألعاب الملعوبة"
+  },
+  "perfect": {
+    "message": "مثالي"
+  },
+  "excellent": {
+    "message": "ممتاز"
+  },
+  "great": {
+    "message": "رائع"
+  },
+  "good": {
+    "message": "جيد"
+  },
+  "miss": {
+    "message": "إخفاق"
+  },
+  "resetGame": {
+    "message": "إعادة ضبط اللعبة"
+  },
+  "ready": {
+    "message": "هل أنت جاهز؟"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": {
+    "message": "Tut veya dur"
+  },
+  "subtitle": {
+    "message": "Merkezi bul. Hassas durdur."
+  },
+  "settings": {
+    "message": "Ayarlar"
+  },
+  "score": {
+    "message": "Puan"
+  },
+  "streak": {
+    "message": "Seri"
+  },
+  "accuracy": {
+    "message": "Hassasiyet"
+  },
+  "instruction": {
+    "message": "İşaretçi hedefin merkezine geldiğinde Durdur'a basın."
+  },
+  "start": {
+    "message": "Başlat"
+  },
+  "stop": {
+    "message": "Durdur"
+  },
+  "next": {
+    "message": "Sonraki tur"
+  },
+  "go": {
+    "message": "Zamanla!"
+  },
+  "keys": {
+    "message": "Boşluk veya Enter da kullanabilirsiniz."
+  },
+  "back": {
+    "message": "← Geri"
+  },
+  "language": {
+    "message": "Dil"
+  },
+  "sound": {
+    "message": "Ses"
+  },
+  "reducedMotion": {
+    "message": "Azaltılmış hareket"
+  },
+  "records": {
+    "message": "Rekorlar"
+  },
+  "bestScore": {
+    "message": "En iyi puan"
+  },
+  "bestPrecision": {
+    "message": "En iyi hassasiyet"
+  },
+  "bestPrecisionStreak": {
+    "message": "En iyi hassasiyet serisi"
+  },
+  "gamesPlayed": {
+    "message": "Oynanan oyunlar"
+  },
+  "perfect": {
+    "message": "MÜKEMMEL"
+  },
+  "excellent": {
+    "message": "MÜKEMMEL DERECE"
+  },
+  "great": {
+    "message": "HARİKA"
+  },
+  "good": {
+    "message": "İYİ"
+  },
+  "miss": {
+    "message": "ISKA"
+  },
+  "resetGame": {
+    "message": "Oyunu sıfırla"
+  },
+  "ready": {
+    "message": "Hazır mısın?"
+  }
+}

@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="css/src/styles.css">
+    <title>Hold or Stop</title>
+</head>
+
+<body>
+    <main class="app">
+        <header>
+            <div>
+                <h1 data-i18n="title">Hold or Stop</h1>
+                <p data-i18n="subtitle">Find the center. Stop with precision.</p>
+            </div><button id="settingsButton" class="icon-button" data-i18n-aria="settings"
+                aria-label="Settings">⚙</button>
+        </header>
+        <section id="gameView">
+            <div class="stats" aria-live="polite">
+                <div><span data-i18n="score">Score</span><strong id="score">0</strong></div>
+                <div><span data-i18n="streak">Streak</span><strong id="streak">0</strong></div>
+                <div><span data-i18n="accuracy">Accuracy</span><strong id="accuracy">—</strong></div>
+            </div>
+            <p id="instruction" class="instruction" data-i18n="instruction">Press Stop when the marker reaches the
+                target's center.</p>
+            <div id="bar" class="timing-bar" aria-hidden="true">
+                <div id="target" class="target"></div>
+                <div id="marker" class="marker"></div>
+            </div>
+            <button id="stopButton" class="stop" data-i18n="start" aria-label="Start game">Start</button>
+            <section class="result" aria-live="assertive"><strong id="resultLabel"
+                    data-i18n="ready">Ready?</strong><span id="precision">—</span></section>
+            <p class="keys" data-i18n="keys">You can also use Space or Enter.</p><button id="resetButton" class="reset"
+                data-i18n="resetGame">Reset game</button>
+        </section>
+        <section id="settingsView" hidden>
+            <div class="settings-head"><button id="backButton" class="text-button" data-i18n="back">← Back</button>
+                <h2 data-i18n="settings">Settings</h2>
+            </div><label><span data-i18n="language">Language</span><select id="language"></select></label><label
+                class="toggle"><span data-i18n="sound">Sound</span><input id="sound" type="checkbox"></label><label
+                class="toggle"><span data-i18n="reducedMotion">Reduced motion</span><input id="reducedMotion"
+                    type="checkbox"></label>
+            <h3 data-i18n="records">Records</h3>
+            <dl>
+                <div>
+                    <dt data-i18n="bestScore">Best score</dt>
+                    <dd id="bestScore">0</dd>
+                </div>
+                <div>
+                    <dt data-i18n="bestPrecision">Best precision</dt>
+                    <dd id="bestPrecision">0%</dd>
+                </div>
+                <div>
+                    <dt data-i18n="bestPrecisionStreak">Best precision streak</dt>
+                    <dd id="bestPrecisionStreak">0</dd>
+                </div>
+                <div>
+                    <dt data-i18n="gamesPlayed">Games played</dt>
+                    <dd id="gamesPlayed">0</dd>
+                </div>
+            </dl>
+        </section>
+        <div class="extension-meta"><a href="https://ashokri.com/donate/" target="_blank" rel="noopener noreferrer"
+                data-i18n="donate">Donate</a><span aria-hidden="true">-</span><span data-i18n="version">Version
+                1.0.0</span></div>
+    </main>
+    <script type="module" src="js/src/popup.js"></script>
+</body>
+
+</html>

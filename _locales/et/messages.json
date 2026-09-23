@@ -1,0 +1,86 @@
+{
+  "title": {
+    "message": "Hoia või peata"
+  },
+  "subtitle": {
+    "message": "Leia keskpunkt. Peata täpselt."
+  },
+  "settings": {
+    "message": "Seaded"
+  },
+  "score": {
+    "message": "Punktid"
+  },
+  "streak": {
+    "message": "Seeria"
+  },
+  "accuracy": {
+    "message": "Täpsus"
+  },
+  "instruction": {
+    "message": "Vajuta Peata, kui marker jõuab sihtmärgi keskpunkti."
+  },
+  "start": {
+    "message": "Alusta"
+  },
+  "stop": {
+    "message": "Peata"
+  },
+  "next": {
+    "message": "Järgmine voor"
+  },
+  "go": {
+    "message": "Ajasta hästi!"
+  },
+  "keys": {
+    "message": "Võid kasutada ka tühikut või Enterit."
+  },
+  "back": {
+    "message": "← Tagasi"
+  },
+  "language": {
+    "message": "Keel"
+  },
+  "sound": {
+    "message": "Heli"
+  },
+  "reducedMotion": {
+    "message": "Vähendatud liikumine"
+  },
+  "records": {
+    "message": "Rekordid"
+  },
+  "bestScore": {
+    "message": "Parim tulemus"
+  },
+  "bestPrecision": {
+    "message": "Parim täpsus"
+  },
+  "bestPrecisionStreak": {
+    "message": "Parim täpsusseeria"
+  },
+  "gamesPlayed": {
+    "message": "Mänge mängitud"
+  },
+  "perfect": {
+    "message": "TÄIUSLIK"
+  },
+  "excellent": {
+    "message": "SUUREPÄRANE"
+  },
+  "great": {
+    "message": "VÄGA HEA"
+  },
+  "good": {
+    "message": "HEA"
+  },
+  "miss": {
+    "message": "MÖÖDA"
+  },
+  "resetGame": {
+    "message": "Lähtesta mäng"
+  },
+  "ready": {
+    "message": "Valmis?"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": {
+    "message": "Håll eller stoppa"
+  },
+  "subtitle": {
+    "message": "Hitta mitten. Stanna med precision."
+  },
+  "settings": {
+    "message": "Inställningar"
+  },
+  "score": {
+    "message": "Poäng"
+  },
+  "streak": {
+    "message": "Svit"
+  },
+  "accuracy": {
+    "message": "Träffsäkerhet"
+  },
+  "instruction": {
+    "message": "Tryck på Stopp när markören når mitten av målet."
+  },
+  "start": {
+    "message": "Starta"
+  },
+  "stop": {
+    "message": "Stopp"
+  },
+  "next": {
+    "message": "Nästa omgång"
+  },
+  "go": {
+    "message": "Tajma det!"
+  },
+  "keys": {
+    "message": "Du kan också använda blanksteg eller Enter."
+  },
+  "back": {
+    "message": "← Tillbaka"
+  },
+  "language": {
+    "message": "Språk"
+  },
+  "sound": {
+    "message": "Ljud"
+  },
+  "reducedMotion": {
+    "message": "Minskad rörelse"
+  },
+  "records": {
+    "message": "Rekord"
+  },
+  "bestScore": {
+    "message": "Bästa poäng"
+  },
+  "bestPrecision": {
+    "message": "Bästa precision"
+  },
+  "bestPrecisionStreak": {
+    "message": "Bästa precisionssvit"
+  },
+  "gamesPlayed": {
+    "message": "Spelade spel"
+  },
+  "perfect": {
+    "message": "PERFEKT"
+  },
+  "excellent": {
+    "message": "UTMÄRKT"
+  },
+  "great": {
+    "message": "TOPPEN"
+  },
+  "good": {
+    "message": "BRA"
+  },
+  "miss": {
+    "message": "MISS"
+  },
+  "resetGame": {
+    "message": "Återställ spelet"
+  },
+  "ready": {
+    "message": "Redo?"
+  }
+}

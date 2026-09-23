@@ -1,0 +1,86 @@
+{
+  "title": {
+    "message": "نگه دار یا توقف"
+  },
+  "subtitle": {
+    "message": "مرکز را پیدا کن و دقیق متوقف شو."
+  },
+  "settings": {
+    "message": "تنظیمات"
+  },
+  "score": {
+    "message": "امتیاز"
+  },
+  "streak": {
+    "message": "رکورد پیاپی"
+  },
+  "accuracy": {
+    "message": "دقت"
+  },
+  "instruction": {
+    "message": "وقتی نشانگر به مرکز هدف رسید، توقف را بزنید."
+  },
+  "start": {
+    "message": "شروع"
+  },
+  "stop": {
+    "message": "توقف"
+  },
+  "next": {
+    "message": "دور بعد"
+  },
+  "go": {
+    "message": "زمان‌سنجی کنید!"
+  },
+  "keys": {
+    "message": "می‌توانید از فاصله یا Enter هم استفاده کنید."
+  },
+  "back": {
+    "message": "بازگشت →"
+  },
+  "language": {
+    "message": "زبان"
+  },
+  "sound": {
+    "message": "صدا"
+  },
+  "reducedMotion": {
+    "message": "حرکت کاهش‌یافته"
+  },
+  "records": {
+    "message": "رکوردها"
+  },
+  "bestScore": {
+    "message": "بهترین امتیاز"
+  },
+  "bestPrecision": {
+    "message": "بهترین دقت"
+  },
+  "bestPrecisionStreak": {
+    "message": "بهترین رکورد دقت"
+  },
+  "gamesPlayed": {
+    "message": "تعداد بازی"
+  },
+  "perfect": {
+    "message": "بی‌نقص"
+  },
+  "excellent": {
+    "message": "عالی"
+  },
+  "great": {
+    "message": "خیلی خوب"
+  },
+  "good": {
+    "message": "خوب"
+  },
+  "miss": {
+    "message": "ناموفق"
+  },
+  "resetGame": {
+    "message": "شروع مجدد بازی"
+  },
+  "ready": {
+    "message": "آماده‌ای؟"
+  }
+}

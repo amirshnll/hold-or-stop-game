@@ -1,0 +1,86 @@
+{
+  "title": {
+    "message": "Halten oder stoppen"
+  },
+  "subtitle": {
+    "message": "Finde die Mitte. Stoppe präzise."
+  },
+  "settings": {
+    "message": "Einstellungen"
+  },
+  "score": {
+    "message": "Punkte"
+  },
+  "streak": {
+    "message": "Serie"
+  },
+  "accuracy": {
+    "message": "Genauigkeit"
+  },
+  "instruction": {
+    "message": "Drücke Stopp, wenn die Markierung die Zielmitte erreicht."
+  },
+  "start": {
+    "message": "Starten"
+  },
+  "stop": {
+    "message": "Stopp"
+  },
+  "next": {
+    "message": "Nächste Runde"
+  },
+  "go": {
+    "message": "Jetzt!"
+  },
+  "keys": {
+    "message": "Du kannst auch Leertaste oder Enter verwenden."
+  },
+  "back": {
+    "message": "← Zurück"
+  },
+  "language": {
+    "message": "Sprache"
+  },
+  "sound": {
+    "message": "Ton"
+  },
+  "reducedMotion": {
+    "message": "Reduzierte Bewegung"
+  },
+  "records": {
+    "message": "Rekorde"
+  },
+  "bestScore": {
+    "message": "Beste Punktzahl"
+  },
+  "bestPrecision": {
+    "message": "Beste Präzision"
+  },
+  "bestPrecisionStreak": {
+    "message": "Beste Präzisionsserie"
+  },
+  "gamesPlayed": {
+    "message": "Gespielte Partien"
+  },
+  "perfect": {
+    "message": "PERFEKT"
+  },
+  "excellent": {
+    "message": "AUSGEZEICHNET"
+  },
+  "great": {
+    "message": "GROSSARTIG"
+  },
+  "good": {
+    "message": "GUT"
+  },
+  "miss": {
+    "message": "VERFEHLT"
+  },
+  "resetGame": {
+    "message": "Spiel zurücksetzen"
+  },
+  "ready": {
+    "message": "Bereit?"
+  }
+}

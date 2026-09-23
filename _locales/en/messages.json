@@ -1,0 +1,86 @@
+{
+  "title": {
+    "message": "Hold or Stop"
+  },
+  "subtitle": {
+    "message": "Find the center. Stop with precision."
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "score": {
+    "message": "Score"
+  },
+  "streak": {
+    "message": "Streak"
+  },
+  "accuracy": {
+    "message": "Accuracy"
+  },
+  "instruction": {
+    "message": "Press Stop when the marker reaches the target's center."
+  },
+  "start": {
+    "message": "Start"
+  },
+  "stop": {
+    "message": "Stop"
+  },
+  "next": {
+    "message": "Next round"
+  },
+  "go": {
+    "message": "Time it!"
+  },
+  "keys": {
+    "message": "You can also use Space or Enter."
+  },
+  "back": {
+    "message": "← Back"
+  },
+  "language": {
+    "message": "Language"
+  },
+  "sound": {
+    "message": "Sound"
+  },
+  "reducedMotion": {
+    "message": "Reduced motion"
+  },
+  "records": {
+    "message": "Records"
+  },
+  "bestScore": {
+    "message": "Best score"
+  },
+  "bestPrecision": {
+    "message": "Best precision"
+  },
+  "bestPrecisionStreak": {
+    "message": "Best precision streak"
+  },
+  "gamesPlayed": {
+    "message": "Games played"
+  },
+  "perfect": {
+    "message": "PERFECT"
+  },
+  "excellent": {
+    "message": "EXCELLENT"
+  },
+  "great": {
+    "message": "GREAT"
+  },
+  "good": {
+    "message": "GOOD"
+  },
+  "miss": {
+    "message": "MISS"
+  },
+  "resetGame": {
+    "message": "Reset game"
+  },
+  "ready": {
+    "message": "Ready?"
+  }
+}

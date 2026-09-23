@@ -1,0 +1,86 @@
+{
+  "title": {
+    "message": "Tenir ou arrêter"
+  },
+  "subtitle": {
+    "message": "Visez le centre. Arrêtez avec précision."
+  },
+  "settings": {
+    "message": "Réglages"
+  },
+  "score": {
+    "message": "Score"
+  },
+  "streak": {
+    "message": "Série"
+  },
+  "accuracy": {
+    "message": "Précision"
+  },
+  "instruction": {
+    "message": "Appuyez sur Arrêter quand le marqueur atteint le centre de la cible."
+  },
+  "start": {
+    "message": "Démarrer"
+  },
+  "stop": {
+    "message": "Arrêter"
+  },
+  "next": {
+    "message": "Manche suivante"
+  },
+  "go": {
+    "message": "À vous !"
+  },
+  "keys": {
+    "message": "Vous pouvez aussi utiliser Espace ou Entrée."
+  },
+  "back": {
+    "message": "← Retour"
+  },
+  "language": {
+    "message": "Langue"
+  },
+  "sound": {
+    "message": "Son"
+  },
+  "reducedMotion": {
+    "message": "Mouvement réduit"
+  },
+  "records": {
+    "message": "Records"
+  },
+  "bestScore": {
+    "message": "Meilleur score"
+  },
+  "bestPrecision": {
+    "message": "Meilleure précision"
+  },
+  "bestPrecisionStreak": {
+    "message": "Meilleure série de précision"
+  },
+  "gamesPlayed": {
+    "message": "Parties jouées"
+  },
+  "perfect": {
+    "message": "PARFAIT"
+  },
+  "excellent": {
+    "message": "EXCELLENT"
+  },
+  "great": {
+    "message": "SUPER"
+  },
+  "good": {
+    "message": "BIEN"
+  },
+  "miss": {
+    "message": "RATÉ"
+  },
+  "resetGame": {
+    "message": "Réinitialiser le jeu"
+  },
+  "ready": {
+    "message": "Prêt ?"
+  }
+}

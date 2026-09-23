@@ -1,0 +1,86 @@
+{
+  "title": {
+    "message": "Tieni o fermati"
+  },
+  "subtitle": {
+    "message": "Trova il centro. Fermati con precisione."
+  },
+  "settings": {
+    "message": "Impostazioni"
+  },
+  "score": {
+    "message": "Punteggio"
+  },
+  "streak": {
+    "message": "Serie"
+  },
+  "accuracy": {
+    "message": "Precisione"
+  },
+  "instruction": {
+    "message": "Premi Stop quando l'indicatore raggiunge il centro del bersaglio."
+  },
+  "start": {
+    "message": "Inizia"
+  },
+  "stop": {
+    "message": "Stop"
+  },
+  "next": {
+    "message": "Prossimo round"
+  },
+  "go": {
+    "message": "Scegli il momento!"
+  },
+  "keys": {
+    "message": "Puoi anche usare Spazio o Invio."
+  },
+  "back": {
+    "message": "← Indietro"
+  },
+  "language": {
+    "message": "Lingua"
+  },
+  "sound": {
+    "message": "Suono"
+  },
+  "reducedMotion": {
+    "message": "Movimento ridotto"
+  },
+  "records": {
+    "message": "Record"
+  },
+  "bestScore": {
+    "message": "Miglior punteggio"
+  },
+  "bestPrecision": {
+    "message": "Migliore precisione"
+  },
+  "bestPrecisionStreak": {
+    "message": "Migliore serie di precisione"
+  },
+  "gamesPlayed": {
+    "message": "Partite giocate"
+  },
+  "perfect": {
+    "message": "PERFETTO"
+  },
+  "excellent": {
+    "message": "ECCELLENTE"
+  },
+  "great": {
+    "message": "OTTIMO"
+  },
+  "good": {
+    "message": "BENE"
+  },
+  "miss": {
+    "message": "MANCATO"
+  },
+  "resetGame": {
+    "message": "Reimposta gioco"
+  },
+  "ready": {
+    "message": "Pronto?"
+  }
+}
