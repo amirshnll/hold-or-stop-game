@@ -12,9 +12,12 @@ cleanup() {
 trap cleanup EXIT INT TERM
 
 mkdir -p "$output_dir"
-find "$project_dir" -mindepth 1 -maxdepth 1 \
-  ! -name outputs ! -name build.sh ! -name README.md \
-  -exec cp -R {} "$stage_dir/" \;
+
+# Package only files used by the extension. This keeps repository metadata,
+# development dependencies, and build files out of the store submission.
+for path in manifest.json popup.html css js font image _locales LICENSE privacy-policy.md; do
+  cp -R "$project_dir/$path" "$stage_dir/"
+done
 
 find "$stage_dir" -type f \
   \( -name .gitignore -o -name .gitkeep -o -name .DS_Store \) \
