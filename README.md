@@ -12,6 +12,10 @@ Hold or Stop is a multilingual timing and precision game packaged as a lightweig
 
 The extension offers a quick skill-based challenge for practicing timing, attention, and hand-eye coordination without leaving the current browsing session.
 
+## Download
+
+[Chrome](https://chromewebstore.google.com/detail/hold-or-stop/lbnbmkodddpkipkfimejpgjhinmaegob) - [Firefox](https://addons.mozilla.org/firefox/addon/hold-or-stop/)
+
 ## License
 
 Hold or Stop is licensed under the MIT License. See the `LICENSE` file for the full license text.
